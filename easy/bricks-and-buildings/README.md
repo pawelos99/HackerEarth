@@ -1,0 +1,2 @@
+## BRICKS AND BUILDINGS
+My own solution for 'Bricks and Buildings' easy puzzle found at [hackerearth.com](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/brick-and-building-26cc28f2/)
