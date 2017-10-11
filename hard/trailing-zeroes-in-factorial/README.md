@@ -1,0 +1,2 @@
+## TRAILING ZEROES IN FACTORIAL
+My own solution for 'Trailing Zeroes in Factorial' hard puzzle found at [hackerearth.com](https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/trailing-zeroes-in-factorial/)
