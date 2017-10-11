@@ -1,0 +1,2 @@
+## CIPHER-1
+My own solution for 'Cipher+1' medium puzzle found at [hackerearth.com](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cipher-1/)
