@@ -1,0 +1,2 @@
+## REPEATED K TIMES
+My own solution for 'Repeated K Times' medium puzzle found at [hackerearth.com](https://www.hackerearth.com/practice/algorithms/searching/linear-search/practice-problems/algorithm/repeated-k-times/)
